@@ -1,4 +1,4 @@
-Neural Network Implementation in TensorFlow
+#Neural Network Implementation in TensorFlow
 Welcome to my GitHub repository containing the Jupyter notebook for implementing a Neural Network from scratch using TensorFlow! 🧠💻
 
 In this repository, you will find a comprehensive Jupyter notebook that walks you through the step-by-step process of building a Neural Network model using TensorFlow's core functionality. The notebook serves as an excellent resource for understanding the inner workings of Neural Networks and gaining hands-on experience in their implementation.
