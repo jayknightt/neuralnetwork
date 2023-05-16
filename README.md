@@ -1,4 +1,3 @@
-# neuralnetwork
 Neural Network Implementation in TensorFlow
 Welcome to my GitHub repository containing the Jupyter notebook for implementing a Neural Network from scratch using TensorFlow! 🧠💻
 
